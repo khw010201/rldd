@@ -1,0 +1,16 @@
+build/
+install/
+log/
+__pycache__/
+*.pth
+*.zip
+.venv/
+.vscode/
+venv/
+work/models/
+work/models(copy)/
+work/best_models/
+work/best_models(copy)/
+work/maps/
+work/tracks/maps/
+work/maps/
